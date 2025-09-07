@@ -1,7 +1,29 @@
-# Create a README.md
+# ATMS 523 - Assignment 1
 
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
+A simple Python project demonstrating basic mathematical operations and GitHub workflows.
 
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+## What it does
 
-Did you add an open source software license?
+Contains a function that calculates and prints the sum of two numbers.
+
+## How to run
+
+```bash
+python assignment_1/atms_assignment_1.py
+```
+
+## Usage
+
+```python
+from assignment_1.atms_assignment_1 import calculate_sum
+
+calculate_sum(5, 10)  # Prints: 15
+```
+
+## Author
+
+Stephen Allen - ATMS 523 (September 3, 2025)
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details.
