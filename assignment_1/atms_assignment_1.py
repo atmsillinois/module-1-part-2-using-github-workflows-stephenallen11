@@ -1,4 +1,5 @@
-"""Assignment 1
+"""Assignment 1.
+
 Stephen Allen
 9/3/2025
 """
